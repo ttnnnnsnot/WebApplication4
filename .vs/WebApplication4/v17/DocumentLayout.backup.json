@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MySource\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F404A11-EEEF-4365-B8F4-662B86D26086}|WebApplication4.csproj|d:\\mysource\\webapplication4\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F404A11-EEEF-4365-B8F4-662B86D26086}|WebApplication4.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F404A11-EEEF-4365-B8F4-662B86D26086}|WebApplication4.csproj|d:\\mysource\\webapplication4\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F404A11-EEEF-4365-B8F4-662B86D26086}|WebApplication4.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\MySource\\WebApplication4\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "D:\\MySource\\WebApplication4\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:00:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\MySource\\WebApplication4\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "D:\\MySource\\WebApplication4\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T11:59:58.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

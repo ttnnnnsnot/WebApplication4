@@ -1,0 +1,7 @@
+D:\MySource\WebApplication4\bin\WebApplication4.dll.config
+D:\MySource\WebApplication4\bin\WebApplication4.dll
+D:\MySource\WebApplication4\bin\WebApplication4.pdb
+D:\MySource\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+D:\MySource\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\MySource\WebApplication4\obj\Debug\WebApplication4.dll
+D:\MySource\WebApplication4\obj\Debug\WebApplication4.pdb
