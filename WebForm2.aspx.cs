@@ -15,6 +15,7 @@ namespace WebApplication4
 
         protected void Unnamed_Click(object sender, EventArgs e)
         {
+            Response.Redirect("WebForm1.aspx");
         }
     }
 }
