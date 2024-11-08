@@ -106,8 +106,8 @@
         <div>
             <asp:Label ID="Label1" Text="text" runat="server"  Visible="true"/>
             <asp:Label ID="Label2" Text="text" runat="server" Visible="false"/>
-            <asp:Button ID="Button1" runat="server" Text="開始加載圖片" OnClientClick="ImageLoader.loadImages(); return false;" />
-            <asp:Button ID="HiddenButton" runat="server" Text="隱藏按鈕" OnClick="HiddenButton_Click" style="display:none;" />
+            <asp:Button ID="Button1" runat="server" Text="開始加載圖片123123" OnClientClick="ImageLoader.loadImages(); return false;" />
+            <asp:Button ID="HiddenButton" runat="server" Text="隱藏按鈕123123" OnClick="HiddenButton_Click" style="display:none;" />
         </div>
     </form>
 </body>

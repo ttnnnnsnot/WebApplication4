@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:TextBox ID="TextBox1" runat="server" TextMode="MultiLine"></asp:TextBox>
+            <asp:TextBox ID="TextBox1" runat="server" TextMode="MultiLine" Visible="true"></asp:TextBox>
             <asp:Button Text="text" runat="server" OnClick="Unnamed_Click" />
         </div>
     </form>
